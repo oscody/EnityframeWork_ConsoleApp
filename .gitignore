@@ -1,3 +1,6 @@
 EnityframeWork_ConsoleApp/obj/
 
 EnityframeWork_ConsoleApp/bin/
+EnityframeWork_ConsoleApp/.DS_Store
+.DS_Store
+EnityframeWork_ConsoleApp/Migrations/20240627215933_InitialCreate.cs
